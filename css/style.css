@@ -3,3 +3,46 @@
 body {
     font-family: "Questrial", sans-serif;
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*hasan*/
+.hasan .jumbotron {
+    width: 100%;
+    padding: 80px 40px;
+    box-sizing: border-box;
+    text-align: center;
+    color: #323232;
+    height: 100%;
+    background-size: cover;
+    /*opacity: 0.4;*/
+
+}
+.hasan .jumbotron .row .col-sm-12 h2 {
+	padding-bottom: 60px;
+	color: white;
+}
+.hasan .jumbotron .row .col-sm-3 .overlay {
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    color: white;
+    opacity: 1.0;
+}
