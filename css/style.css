@@ -34,10 +34,12 @@ body {
     /*opacity: 0.4;*/
 
 }
+
 .hasan .jumbotron .row .col-sm-12 h2 {
-	padding-bottom: 60px;
-	color: white;
+    padding-bottom: 60px;
+    color: white;
 }
+
 .hasan .jumbotron .row .col-sm-3 .overlay {
     top: 0;
     left: 0;
@@ -45,4 +47,174 @@ body {
     height: 100%;
     color: white;
     opacity: 1.0;
-}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    /* Metrics */
+    .metrics {
+        background: url(/img/adit/hands.jpg);
+        background-size: cover;
+        padding-top: 90px;
+        padding-bottom: 90px;
+
+    }
+
+    .black {
+        background-color: black;
+    }
+
+
+    .metrics-tittle {
+        color: yellow;
+    }
+
+    .card {
+        border: none;
+        background-color: transparent;
+    }
+
+    .media h3 {
+        color: yellow;
+        font-size: 3.8rem;
+    }
+
+    .card-img i {
+        font-size: 98px;
+        color: brown;
+        padding-bottom: 30px;
+    }
+
+    .media h4 {
+        color: yellow;
+        font-weight: bold;
+    }
+
+    .media p {
+        font-size: 1.2rem;
+        font-weight: bold;
+        color: white;
+    }
+
+    /* Form */
+
+    .form {
+        padding-top: 90px;
+        padding-bottom: 90px;
+    }
+
+    .icon-block {
+        color: yellow;
+        display: flex;
+    }
+
+    .col-sm-6 .pb-3 {
+        color: yellow;
+    }
+
+    .icon-block__icon i {
+        font-size: 48px;
+        padding-right: 20px;
+    }
+
+
+    .btn {
+        border: yellow solid 2px;
+        font-weight: bold;
+    }
